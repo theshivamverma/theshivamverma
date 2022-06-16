@@ -1,11 +1,11 @@
 # Hello !! 👋
 
-## I am Shivam Verma 🐼💻 . A Software Engineer by profession and also at ❤️
+## I am Shivam Verma 🐼💻 . A Engineer by profession and also at ❤️
 
 <h3> 👨🏻‍💻 About Me </h3>
 
 - &nbsp; Introvert, Nerd, ❤️ movies, cooking, poems, dogs.
-- &nbsp; Trying Public speaking nowadays.
+- &nbsp; Trying out public speaking nowadays.
 - &nbsp; Currently Learning about WebRTCs.
 - &nbsp; Open for project collaborations. 
 
@@ -16,5 +16,6 @@
 - 🛢 &nbsp; MySQL | MongoDB
 - 🔧 &nbsp; Git | Postman | 
 
+### Statss
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theshivamverma&layout=compact" />
