@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hello !! 👋
 
-<!--
-**theshivamverma/theshivamverma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am Shivam Verma 🐼💻 . A Software Engineer by profession and also at ❤️
 
-Here are some ideas to get you started:
+<h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- &nbsp; Introvert, Nerd, ❤️ movies, cooking, poems, dogs.
+- &nbsp; Trying Public speaking nowadays.
+- &nbsp; Currently Learning about WebRTCs.
+- &nbsp; Open for project collaborations. 
+
+<h3>🛠 Tech Stack</h3>
+
+- 🌐 &nbsp; HTML | CSS | Javascript | ReactJS | Node.js | ExpressJS | Typescript
+- 🧰 &nbsp; ThreeJS | React-Three-Fiber | WebRTCs 
+- 🛢 &nbsp; MySQL | MongoDB
+- 🔧 &nbsp; Git | Postman | 
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theshivamverma&layout=compact" />
