@@ -1,20 +1,18 @@
 # Hello !! 👋
 
-## I am Shivam Verma 🐼💻 . A Engineer by profession and also at ❤️
+## I am Shivam Verma 🐼💻 
+### An Engineer by profession and also at ❤️
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- &nbsp; Introvert, Nerd, ❤️ movies, cooking, poems, dogs.
-- &nbsp; Trying out public speaking nowadays.
-- &nbsp; Currently Learning about WebRTCs.
-- &nbsp; Open for project collaborations. 
+- &nbsp; ❤️ movies, cooking, chess, cricket, dogs.
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; HTML | CSS | Javascript | ReactJS | Node.js | ExpressJS | Typescript
+- 😎 &nbsp; JavaScript + Typescript 💪
+- 🌐 &nbsp; HTML | CSS | MongoDB | ExpressJS | ReactJS | Node.js 
 - 🧰 &nbsp; ThreeJS | React-Three-Fiber | WebRTCs 
-- 🛢 &nbsp; MySQL | MongoDB
-- 🔧 &nbsp; Git | Postman | 
+- 🔧 &nbsp; Git | Postman 
 
 ### Stats
 
