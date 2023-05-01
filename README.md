@@ -5,13 +5,14 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- &nbsp; ❤️ movies, cooking, chess, cricket, dogs.
+- &nbsp; Code Artist tranforming pixels to code.
+- &nbsp; Building | Breaking stuff
 
 <h3>🛠 Tech Stack</h3>
 
 - 😎 &nbsp; JavaScript + Typescript 💪
-- 🌐 &nbsp; HTML | CSS | MongoDB | ExpressJS | ReactJS | Node.js 
-- 🧰 &nbsp; ThreeJS | React-Three-Fiber | WebRTCs 
+- 🌐 &nbsp; HTML | CSS | React | NextJS | SCSS | Node | MongoDB | ExpressJS |
+- 🧰 &nbsp; WebRTCs 
 - 🔧 &nbsp; Git | Postman 
 
 ### Stats
