@@ -6,13 +6,13 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - &nbsp; Code Artist tranforming pixels to code.
-- &nbsp; Building | Breaking stuff
+- &nbsp; Building || Breaking
 
 <h3>🛠 Tech Stack</h3>
 
-- 😎 &nbsp; JavaScript + Typescript 💪
-- 🌐 &nbsp; HTML | CSS | React | NextJS | SCSS | Node | MongoDB | ExpressJS |
-- 🧰 &nbsp; WebRTCs 
+- 😎 &nbsp; Rescript || JavaScript || Typescript 💪
+- 🌐 &nbsp; HTML | CSS | React | NextJS | SCSS | Node | Express | MongoDB | MySQL
+- 🧰 &nbsp; WebRTCs | CRDTs | System Design
 - 🔧 &nbsp; Git | Postman 
 
 ### Stats
